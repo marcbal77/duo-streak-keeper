@@ -58,3 +58,6 @@ htmlcov/
 
 # Claude
 .claude/
+
+# Project state documentation (keep local, don't commit)
+project-state.md
